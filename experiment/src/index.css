@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #303030;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+    padding: 1rem;
+}
+
+p {
+    line-height: 1.5rem;
+}
+
+hr {
+    margin: 3rem 0;
+}
+
+a {
+    color: #17b7fe;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #45c5ff;
+}

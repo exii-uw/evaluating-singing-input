@@ -1,0 +1,505 @@
+,Technique,User ID,Skill,Metric,Rating
+0,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Mental demand,3
+1,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Physical demand,2
+2,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Temporal demand,2
+3,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Performance,2
+4,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Effort,5
+5,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Frustration,1
+6,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Enjoyability,7
+7,Pitch,4g4XbueBXPakEKcHYSqqot76sGg1,2,Background music,7
+8,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Mental demand,5
+9,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Physical demand,5
+10,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Temporal demand,5
+11,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Performance,3
+12,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Effort,4
+13,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Frustration,3
+14,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Enjoyability,7
+15,Interval,4g4XbueBXPakEKcHYSqqot76sGg1,2,Background music,7
+16,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Mental demand,5
+17,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Physical demand,5
+18,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Temporal demand,5
+19,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Performance,2
+20,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Effort,3
+21,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Frustration,4
+22,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Enjoyability,7
+23,Melody,4g4XbueBXPakEKcHYSqqot76sGg1,2,Background music,7
+24,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Mental demand,3
+25,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Physical demand,3
+26,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Temporal demand,3
+27,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Performance,2
+28,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Effort,2
+29,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Frustration,1
+30,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Enjoyability,1
+31,Pitch,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Background music,6
+32,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Mental demand,5
+33,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Physical demand,4
+34,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Temporal demand,2
+35,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Performance,2
+36,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Effort,3
+37,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Frustration,1
+38,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Enjoyability,7
+39,Interval,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Background music,5
+40,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Mental demand,4
+41,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Physical demand,3
+42,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Temporal demand,1
+43,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Performance,2
+44,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Effort,3
+45,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Frustration,1
+46,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Enjoyability,7
+47,Melody,ND7YXptQpfcoYks37w3hh28VzIJ2,2,Background music,6
+48,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Mental demand,4
+49,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Physical demand,4
+50,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Temporal demand,4
+51,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Performance,1
+52,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Effort,4
+53,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Frustration,1
+54,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Enjoyability,1
+55,Pitch,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Background music,6
+56,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Mental demand,4
+57,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Physical demand,4
+58,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Temporal demand,4
+59,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Performance,1
+60,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Effort,4
+61,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Frustration,1
+62,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Enjoyability,1
+63,Interval,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Background music,6
+64,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Mental demand,5
+65,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Physical demand,4
+66,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Temporal demand,4
+67,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Performance,2
+68,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Effort,5
+69,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Frustration,2
+70,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Enjoyability,2
+71,Melody,4skkbqCgsCUeDAYAwThCrw5UMRG2,2,Background music,6
+72,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Mental demand,4
+73,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Physical demand,2
+74,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Temporal demand,5
+75,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Performance,3
+76,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Effort,5
+77,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Frustration,3
+78,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Enjoyability,6
+79,Pitch,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Background music,7
+80,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Mental demand,4
+81,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Physical demand,2
+82,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Temporal demand,3
+83,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Performance,2
+84,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Effort,5
+85,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Frustration,3
+86,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Enjoyability,6
+87,Interval,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Background music,6
+88,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Mental demand,5
+89,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Physical demand,2
+90,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Temporal demand,5
+91,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Performance,2
+92,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Effort,5
+93,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Frustration,3
+94,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Enjoyability,6
+95,Melody,eDAQuX1FHxaGiWXOPiR3IVG3sZK2,1,Background music,6
+96,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Mental demand,4
+97,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Physical demand,2
+98,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Temporal demand,1
+99,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Performance,1
+100,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Effort,3
+101,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Frustration,1
+102,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Enjoyability,7
+103,Pitch,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Background music,6
+104,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Mental demand,3
+105,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Physical demand,4
+106,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Temporal demand,2
+107,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Performance,1
+108,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Effort,2
+109,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Frustration,3
+110,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Enjoyability,6
+111,Interval,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Background music,6
+112,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Mental demand,2
+113,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Physical demand,4
+114,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Temporal demand,1
+115,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Performance,1
+116,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Effort,2
+117,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Frustration,1
+118,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Enjoyability,6
+119,Melody,ttJ0IFZj6ofNkXKH9LRAjBxI3M53,2,Background music,6
+120,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Mental demand,5
+121,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Physical demand,4
+122,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Temporal demand,2
+123,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Performance,1
+124,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Effort,5
+125,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Frustration,3
+126,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Enjoyability,5
+127,Pitch,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Background music,6
+128,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Mental demand,4
+129,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Physical demand,5
+130,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Temporal demand,2
+131,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Performance,2
+132,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Effort,4
+133,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Frustration,2
+134,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Enjoyability,5
+135,Interval,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Background music,2
+136,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Mental demand,5
+137,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Physical demand,6
+138,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Temporal demand,3
+139,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Performance,2
+140,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Effort,5
+141,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Frustration,4
+142,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Enjoyability,4
+143,Melody,iBaEkIBcrjVxmQYt2ynpOaMNNJi2,2,Background music,3
+144,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Mental demand,4
+145,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Physical demand,1
+146,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Temporal demand,4
+147,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Performance,2
+148,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Effort,4
+149,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Frustration,3
+150,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Enjoyability,6
+151,Pitch,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Background music,5
+152,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Mental demand,5
+153,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Physical demand,2
+154,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Temporal demand,2
+155,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Performance,2
+156,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Effort,3
+157,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Frustration,3
+158,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Enjoyability,6
+159,Interval,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Background music,7
+160,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Mental demand,3
+161,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Physical demand,1
+162,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Temporal demand,2
+163,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Performance,3
+164,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Effort,3
+165,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Frustration,3
+166,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Enjoyability,6
+167,Melody,CwOYmTC4P7QRzjbBXgVwRf11ccL2,0,Background music,7
+168,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Mental demand,6
+169,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Physical demand,2
+170,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Temporal demand,6
+171,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Performance,4
+172,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Effort,7
+173,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Frustration,5
+174,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Enjoyability,4
+175,Pitch,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Background music,2
+176,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Mental demand,7
+177,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Physical demand,2
+178,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Temporal demand,5
+179,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Performance,6
+180,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Effort,7
+181,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Frustration,6
+182,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Enjoyability,2
+183,Interval,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Background music,5
+184,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Mental demand,6
+185,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Physical demand,2
+186,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Temporal demand,4
+187,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Performance,7
+188,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Effort,7
+189,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Frustration,6
+190,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Enjoyability,2
+191,Melody,Jb1TNhPukqh2nEWGQvpAF4R5uQt2,0,Background music,4
+192,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Mental demand,5
+193,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Physical demand,2
+194,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Temporal demand,5
+195,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Performance,2
+196,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Effort,2
+197,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Frustration,2
+198,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Enjoyability,7
+199,Pitch,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Background music,5
+200,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Mental demand,5
+201,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Physical demand,2
+202,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Temporal demand,5
+203,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Performance,2
+204,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Effort,5
+205,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Frustration,5
+206,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Enjoyability,7
+207,Interval,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Background music,7
+208,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Mental demand,6
+209,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Physical demand,2
+210,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Temporal demand,6
+211,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Performance,3
+212,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Effort,5
+213,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Frustration,5
+214,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Enjoyability,7
+215,Melody,AzKqvJ3VNkYN9LgIoPiu8fehW6u2,1,Background music,5
+216,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Mental demand,5
+217,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Physical demand,1
+218,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Temporal demand,2
+219,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Performance,3
+220,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Effort,6
+221,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Frustration,6
+222,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Enjoyability,4
+223,Pitch,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Background music,6
+224,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Mental demand,5
+225,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Physical demand,2
+226,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Temporal demand,5
+227,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Performance,3
+228,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Effort,6
+229,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Frustration,6
+230,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Enjoyability,3
+231,Interval,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Background music,4
+232,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Mental demand,5
+233,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Physical demand,1
+234,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Temporal demand,7
+235,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Performance,3
+236,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Effort,6
+237,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Frustration,6
+238,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Enjoyability,3
+239,Melody,ICcwW9AMMqRnyMVdYdPQ0XCk1YY2,0,Background music,5
+240,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Mental demand,6
+241,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Physical demand,7
+242,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Temporal demand,6
+243,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Performance,4
+244,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Effort,6
+245,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Frustration,6
+246,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Enjoyability,2
+247,Pitch,tXVIQHITYldhMqhRtVFNjfTRm333,1,Background music,3
+248,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Mental demand,7
+249,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Physical demand,7
+250,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Temporal demand,6
+251,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Performance,7
+252,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Effort,7
+253,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Frustration,6
+254,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Enjoyability,2
+255,Interval,tXVIQHITYldhMqhRtVFNjfTRm333,1,Background music,4
+256,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Mental demand,7
+257,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Physical demand,7
+258,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Temporal demand,7
+259,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Performance,7
+260,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Effort,7
+261,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Frustration,6
+262,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Enjoyability,2
+263,Melody,tXVIQHITYldhMqhRtVFNjfTRm333,1,Background music,4
+264,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Mental demand,3
+265,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Physical demand,4
+266,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Temporal demand,3
+267,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Performance,2
+268,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Effort,3
+269,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Frustration,4
+270,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Enjoyability,5
+271,Pitch,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Background music,5
+272,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Mental demand,5
+273,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Physical demand,5
+274,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Temporal demand,4
+275,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Performance,3
+276,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Effort,2
+277,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Frustration,5
+278,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Enjoyability,5
+279,Interval,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Background music,2
+280,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Mental demand,3
+281,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Physical demand,2
+282,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Temporal demand,2
+283,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Performance,3
+284,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Effort,3
+285,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Frustration,3
+286,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Enjoyability,5
+287,Melody,zbCoKgaBbNbDxw5BKsiA1NCxAaL2,0,Background music,3
+288,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Mental demand,5
+289,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Physical demand,2
+290,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Temporal demand,2
+291,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Performance,3
+292,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Effort,5
+293,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Frustration,5
+294,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Enjoyability,5
+295,Pitch,zNuGxejsczPIjpf2emxu6MomGm82,1,Background music,3
+296,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Mental demand,3
+297,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Physical demand,2
+298,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Temporal demand,2
+299,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Performance,3
+300,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Effort,5
+301,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Frustration,5
+302,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Enjoyability,5
+303,Interval,zNuGxejsczPIjpf2emxu6MomGm82,1,Background music,4
+304,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Mental demand,3
+305,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Physical demand,3
+306,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Temporal demand,3
+307,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Performance,3
+308,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Effort,5
+309,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Frustration,5
+310,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Enjoyability,5
+311,Melody,zNuGxejsczPIjpf2emxu6MomGm82,1,Background music,5
+312,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Mental demand,5
+313,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Physical demand,5
+314,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Temporal demand,4
+315,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Performance,4
+316,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Effort,4
+317,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Frustration,5
+318,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Enjoyability,4
+319,Pitch,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Background music,4
+320,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Mental demand,5
+321,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Physical demand,5
+322,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Temporal demand,5
+323,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Performance,3
+324,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Effort,4
+325,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Frustration,5
+326,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Enjoyability,4
+327,Interval,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Background music,5
+328,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Mental demand,5
+329,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Physical demand,5
+330,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Temporal demand,4
+331,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Performance,4
+332,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Effort,4
+333,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Frustration,5
+334,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Enjoyability,4
+335,Melody,Z31kMWcmwlZPIBzuenXuPOjxaet2,0,Background music,4
+336,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Mental demand,4
+337,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Physical demand,1
+338,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Temporal demand,1
+339,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Performance,2
+340,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Effort,4
+341,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Frustration,1
+342,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Enjoyability,5
+343,Pitch,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Background music,7
+344,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Mental demand,6
+345,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Physical demand,5
+346,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Temporal demand,3
+347,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Performance,4
+348,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Effort,5
+349,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Frustration,5
+350,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Enjoyability,3
+351,Interval,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Background music,5
+352,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Mental demand,5
+353,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Physical demand,5
+354,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Temporal demand,1
+355,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Performance,3
+356,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Effort,5
+357,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Frustration,4
+358,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Enjoyability,5
+359,Melody,Euyc6QBkmbPLaF9bpk2JwVVgGB43,2,Background music,5
+360,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Mental demand,5
+361,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Physical demand,4
+362,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Temporal demand,2
+363,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Performance,2
+364,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Effort,5
+365,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Frustration,2
+366,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Enjoyability,6
+367,Pitch,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Background music,4
+368,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Mental demand,5
+369,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Physical demand,4
+370,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Temporal demand,4
+371,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Performance,2
+372,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Effort,4
+373,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Frustration,3
+374,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Enjoyability,6
+375,Interval,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Background music,5
+376,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Mental demand,6
+377,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Physical demand,4
+378,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Temporal demand,6
+379,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Performance,3
+380,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Effort,5
+381,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Frustration,2
+382,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Enjoyability,5
+383,Melody,2J4nDRlVNcgNjIwp2I4uTCLJXNW2,1,Background music,5
+384,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Mental demand,5
+385,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Physical demand,3
+386,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Temporal demand,4
+387,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Performance,3
+388,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Effort,5
+389,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Frustration,3
+390,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Enjoyability,5
+391,Pitch,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Background music,5
+392,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Mental demand,5
+393,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Physical demand,3
+394,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Temporal demand,3
+395,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Performance,3
+396,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Effort,5
+397,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Frustration,3
+398,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Enjoyability,5
+399,Interval,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Background music,5
+400,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Mental demand,3
+401,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Physical demand,3
+402,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Temporal demand,2
+403,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Performance,2
+404,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Effort,4
+405,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Frustration,3
+406,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Enjoyability,6
+407,Melody,wZ6tGHxzM8hz5kkiAtfI7acaBe12,2,Background music,4
+408,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Mental demand,5
+409,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Physical demand,2
+410,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Temporal demand,4
+411,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Performance,3
+412,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Effort,5
+413,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Frustration,5
+414,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Enjoyability,5
+415,Pitch,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Background music,5
+416,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Mental demand,6
+417,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Physical demand,2
+418,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Temporal demand,4
+419,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Performance,3
+420,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Effort,6
+421,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Frustration,5
+422,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Enjoyability,5
+423,Interval,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Background music,3
+424,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Mental demand,5
+425,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Physical demand,2
+426,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Temporal demand,4
+427,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Performance,2
+428,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Effort,4
+429,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Frustration,4
+430,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Enjoyability,6
+431,Melody,afuxcE0uc6NrDO8XASgRVK4zPBZ2,1,Background music,3
+432,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Mental demand,6
+433,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Physical demand,6
+434,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Temporal demand,5
+435,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Performance,5
+436,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Effort,6
+437,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Frustration,6
+438,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Enjoyability,5
+439,Pitch,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Background music,7
+440,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Mental demand,6
+441,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Physical demand,6
+442,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Temporal demand,4
+443,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Performance,3
+444,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Effort,5
+445,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Frustration,4
+446,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Enjoyability,3
+447,Interval,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Background music,7
+448,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Mental demand,7
+449,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Physical demand,7
+450,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Temporal demand,4
+451,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Performance,7
+452,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Effort,7
+453,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Frustration,7
+454,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Enjoyability,1
+455,Melody,NXZSUcmsVQWmtQhsDAc8nA9qZZs1,0,Background music,5
+456,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Mental demand,5
+457,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Physical demand,4
+458,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Temporal demand,5
+459,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Performance,7
+460,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Effort,5
+461,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Frustration,6
+462,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Enjoyability,4
+463,Pitch,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Background music,6
+464,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Mental demand,7
+465,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Physical demand,7
+466,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Temporal demand,4
+467,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Performance,3
+468,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Effort,6
+469,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Frustration,7
+470,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Enjoyability,3
+471,Interval,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Background music,6
+472,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Mental demand,5
+473,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Physical demand,5
+474,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Temporal demand,4
+475,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Performance,2
+476,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Effort,5
+477,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Frustration,4
+478,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Enjoyability,4
+479,Melody,mNy8hOQrzjaIYD6r1OPQJQBafA32,0,Background music,3
+480,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Mental demand,4
+481,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Physical demand,5
+482,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Temporal demand,5
+483,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Performance,3
+484,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Effort,5
+485,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Frustration,4
+486,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Enjoyability,4
+487,Pitch,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Background music,3
+488,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Mental demand,5
+489,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Physical demand,5
+490,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Temporal demand,4
+491,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Performance,3
+492,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Effort,5
+493,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Frustration,5
+494,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Enjoyability,3
+495,Interval,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Background music,3
+496,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Mental demand,4
+497,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Physical demand,5
+498,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Temporal demand,3
+499,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Performance,3
+500,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Effort,3
+501,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Frustration,4
+502,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Enjoyability,5
+503,Melody,RIneOAfWA6POfHcHOoYEDG1BF6T2,2,Background music,4
